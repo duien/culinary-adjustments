@@ -4,7 +4,7 @@
   "name": "Culinary Adjustments",
   "description": "Adjust food mods to my personal preferences",
   "authors": ["duien"],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "game": "1.21.6"
   }
