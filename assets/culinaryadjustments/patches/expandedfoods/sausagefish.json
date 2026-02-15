@@ -3,28 +3,28 @@
     "op": "replace",
     "path": "/0/ingredients/0/inputs/0/code",
     "file": "expandedfoods:recipes/kneading/sausagefish.json",
-    "value": "game:fat-cut"
+    "value": "game:fat-cut",
     "dependsOn": [{ "modid": "cutthefat" }, {"modid":"expandedfoods"}]
   },
   {
     "op": "replace",
     "path": "/1/ingredients/0/inputs/0/code",
     "file": "expandedfoods:recipes/kneading/sausagefish.json",
-    "value": "game:fat-cut"
+    "value": "game:fat-cut",
     "dependsOn": [{ "modid": "cutthefat" }, {"modid":"expandedfoods"}]
   },
   {
     "op": "replace",
     "path": "/2/ingredients/0/inputs/0/code",
     "file": "expandedfoods:recipes/kneading/sausagefish.json",
-    "value": "game:fat-cut"
+    "value": "game:fat-cut",
     "dependsOn": [{ "modid": "cutthefat" }, {"modid":"expandedfoods"}]
   },
   {
     "op": "replace",
     "path": "/3/ingredients/0/inputs/0/code",
     "file": "expandedfoods:recipes/kneading/sausagefish.json",
-    "value": "game:fat-cut"
+    "value": "game:fat-cut",
     "dependsOn": [{ "modid": "cutthefat" }, {"modid":"expandedfoods"}]
   }
 ]
